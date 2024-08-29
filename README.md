@@ -55,7 +55,7 @@
 
 ###
 
-<br clear="both">
+
 
 <img src="https://raw.githubusercontent.com/Mehmet-D02/Mehmet-D02/output/snake.svg" alt="Snake animation" />
 
