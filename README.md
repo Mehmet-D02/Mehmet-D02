@@ -58,6 +58,9 @@
   <br clear="both">
   <img src="https://raw.githubusercontent.com/Mehmet-D02/Mehmet-D02/output/snake.svg" alt="Snake animation" />
 </div>
-###
 
-![](https://github-profile-trophy.vercel.app/?username=Mehmet-D02&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<div align="center">
+  ![](https://github-profile-trophy.vercel.app/?username=Mehmet-D02&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
