@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <h2 align="center">Hi 👋! My name is Mehmet</h2>
 
 ###
